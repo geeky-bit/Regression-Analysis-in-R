@@ -7,5 +7,5 @@ https://www.kaggle.com/unsdsn/world-happiness
 #### Dataset used :
 https://www.kaggle.com/unsdsn/world-happiness/data/
 
-* For this problem, I have only used the 2016.csv But you can use all three available datasets for analysis.
-The data and the code are freely available to use.
+***Note: For this problem, I have only used the 2016.csv But you can use all three available datasets for analysis.
+The data and the code are freely available to use.***
